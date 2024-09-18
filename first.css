@@ -2,8 +2,8 @@ body{
 	background-image: url(https://steamuserimages-a.akamaihd.net/ugc/849348474968586197/73C61EE155A95E7D742EE6AC2379EA5E0E04A4DF/?imw=512&amp;imh=286&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
 }
 form{
-	width: 500px;
-	height: 600px;
+	width: 1600px;
+	height: 900px;
 	background-color: pink;
 	margin: 0 auto;
 	padding: 10px;
@@ -24,6 +24,7 @@ input[type=submit]{
 input[type=submit]:hover{
 	background-color: blue;
 	color: white;
+	cursor: pointer;
 }
 
 input[type=checkbox]{
